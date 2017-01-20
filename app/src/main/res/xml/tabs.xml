@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_about_us"
+        icon="@drawable/about"
+        title="About"
+        barColorWhenSelected="#f44336"/>
+    <tab
+        id="@+id/tab_events"
+        icon="@drawable/event"
+        title="Events"
+        barColorWhenSelected="#e91e63"/>
+    <tab
+        id="@+id/tab_instagram"
+        icon="@drawable/instagram"
+        title="InstaFeed"
+        barColorWhenSelected="#9c27b0"/>
+    <tab
+        id="@+id/tab_location"
+        icon="@drawable/location"
+        title="Location"
+        barColorWhenSelected="#673ab7"/>
+    <tab
+        id="@+id/tab_contact"
+        icon="@drawable/contact"
+        title="Contact"
+        barColorWhenSelected="#2196f3"/>
+</tabs>

@@ -16,7 +16,9 @@
         android:layout_above="@+id/bottomBar" />
 
     <com.roughike.bottombar.BottomBar
+        android:background="#202020"
         android:id="@+id/bottomBar"
+        app:bb_activeTabColor="#e9e8e8"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:layout_alignParentBottom="true"
